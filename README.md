@@ -1,2 +1,2 @@
 # qiskitcamp
-Optimization for chemistry Cicuits
+Optimization for chemistry circuits
